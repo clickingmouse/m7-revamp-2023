@@ -1,7 +1,7 @@
 import React from "react";
 
-const Aroundus = () => {
+const AroundUs = () => {
   return <div>Around Us</div>;
 };
 
-export default About;
+export default AroundUs;

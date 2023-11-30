@@ -1,6 +1,6 @@
 import React from "react";
 
-const Gettinghere = () => {
+const GettingHere = () => {
   return <div>Getting here</div>;
 };
 
